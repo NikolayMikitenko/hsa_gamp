@@ -3,7 +3,7 @@
 # Send events to Google Analytics
 
 ## Run app
-Replace tid in app.py file for yuor own 'UA-XXXXXXXXX-X'
+Replace tid in app.py file for yuor own 'UA-XXXXXXXXX-X'  
 ```docker build -t currency_exchange```  
 ```docker run currency_exchange```  
 
